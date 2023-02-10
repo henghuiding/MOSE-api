@@ -13,7 +13,8 @@ This repository contains information and tools for the [MOSE](https://henghuidin
 
  - ☁️ [OneDrive](https://entuedu-my.sharepoint.com/:f:/g/personal/liuc0058_e_ntu_edu_sg/EjXSfDF7QEZApAVpFJ5rfdABkHCf0k2Va6VDfUy7rpabNw?e=9BVkrz)
  - ☁️ [Google Drive](https://drive.google.com/drive/folders/1vChKHzbboP1k6wd6t95guxxURW3nIXBe?usp=sharing)
- - ☁️ Baidu Pan (Coming Soon)
+ - ☁️ [Baidu Pan](https://pan.baidu.com/s/116p3tQsUqObem8G8FOJ7cA) (Access Code: MOSE) 
+
 
 📦 Or use [gdown](https://github.com/wkentaro/gdown):
 

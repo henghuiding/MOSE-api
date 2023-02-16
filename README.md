@@ -20,11 +20,12 @@ This repository contains information and tools for the [MOSE](https://henghuidin
 
  ```bash
  # train.tar.gz
- gdown https://drive.google.com/uc\?id\=10HYO-CJTaITalhzl_Zbz_Qpesh8F3gZR
+ gdown 'https://drive.google.com/uc?id=10HYO-CJTaITalhzl_Zbz_Qpesh8F3gZR'
+ 
  # valid.tar.gz
- gdown https://drive.google.com/uc\?id\=1yFoacQ0i3J5q6LmnTVVNTTgGocuPB_hR
- # test.tar.gz
- gdown https://drive.google.com/uc\?id\=186ZEo-FN_vdv3U7X7eGfqIKFpkKIMERl
+ gdown 'https://drive.google.com/uc?id=1yFoacQ0i3J5q6LmnTVVNTTgGocuPB_hR'
+ 
+ # test set will be released when competition starts.
  ```
 
 ## File Structure

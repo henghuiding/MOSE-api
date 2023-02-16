@@ -28,6 +28,15 @@ This repository contains information and tools for the [MOSE](https://henghuidin
  # test set will be released when competition starts.
  ```
 
+
+## Evaluation
+
+***[🔥02.16.2023: Our [CodaLab competition](https://codalab.lisn.upsaclay.fr/competitions/10703) is on live now!]***
+
+Please submit your results on 
+ - 💯 [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/10703).
+
+
 ## File Structure
 
 The dataset follows a similar structure as [DAVIS](https://davischallenge.org/) and [Youtube-VOS](https://youtube-vos.org/). The dataset consists of two parts: `JPEGImages` which holds the frame images, and `Annotations` which contains the corresponding segmentation masks. The frame images are numbered using five-digit numbers. Annotations are saved in color-pattlate mode PNGs like DAVIS.
@@ -66,13 +75,6 @@ Please note that while annotations for all frames in the training set are provid
   └── <video_name_...>
 
 ```
-
-
-## Evaluation
-
-Please submit your results on CodaLab.
-
-(Link will be released before 17th Feb. Stay tuned!)
 
 
 ## BibTeX

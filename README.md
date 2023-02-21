@@ -11,7 +11,7 @@ This repository contains information and tools for the [MOSE](https://henghuidin
 
 ⬇️ Get the dataset from: 
 
- - ☁️ [OneDrive](https://entuedu-my.sharepoint.com/:f:/g/personal/liuc0058_e_ntu_edu_sg/EjXSfDF7QEZApAVpFJ5rfdABkHCf0k2Va6VDfUy7rpabNw?e=9BVkrz)
+ - ☁️ [***OneDrive*** ](https://entuedu-my.sharepoint.com/:f:/g/personal/liuc0058_e_ntu_edu_sg/EjXSfDF7QEZApAVpFJ5rfdABkHCf0k2Va6VDfUy7rpabNw?e=9BVkrz) ***(Recommended)***
  - ☁️ [Google Drive](https://drive.google.com/drive/folders/1vChKHzbboP1k6wd6t95guxxURW3nIXBe?usp=sharing)
  - ☁️ [Baidu Pan](https://pan.baidu.com/s/116p3tQsUqObem8G8FOJ7cA) (Access Code: MOSE) 
 
@@ -27,6 +27,13 @@ This repository contains information and tools for the [MOSE](https://henghuidin
  
  # test set will be released when competition starts.
  ```
+
+Please also check the SHA256 sum of the files to ensure the data intergrity:
+
+```
+8bcb6081699ee273b7983dbe8204daf6045077fe0f356d49f6f365c2b3328bdb train.tar.gz
+884baecf7d7e85cd35486e45d6c474dc34352a227ac75c49f6d5e4afb61b331c valid.tar.gz
+```
 
 
 ## Evaluation

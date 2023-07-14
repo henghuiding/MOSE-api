@@ -88,10 +88,10 @@ Please note that while annotations for all frames in the training set are provid
 Please consider to cite MOSE if it helps your research.
 
 ```latex
-@article{MOSE,
-  title={MOSE: A New Dataset for Video Object Segmentation in Complex Scenes},
+@inproceedings{MOSE,
+  title={{MOSE}: A New Dataset for Video Object Segmentation in Complex Scenes},
   author={Ding, Henghui and Liu, Chang and He, Shuting and Jiang, Xudong and Torr, Philip HS and Bai, Song},
-  journal={arXiv preprint arXiv:2302.01872},
+  booktitle={ICCV},
   year={2023}
 }
 ```

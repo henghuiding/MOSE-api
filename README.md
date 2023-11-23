@@ -20,10 +20,10 @@ This repository contains information and tools for the [MOSE](https://henghuidin
 
  ```bash
  # train.tar.gz
- gdown 'https://drive.google.com/uc?id=10HYO-CJTaITalhzl_Zbz_Qpesh8F3gZR'
+ gdown 'https://drive.google.com/uc?id=ID_removed_to_avoid_overaccesses_get_it_by_yourself'
  
  # valid.tar.gz
- gdown 'https://drive.google.com/uc?id=1yFoacQ0i3J5q6LmnTVVNTTgGocuPB_hR'
+ gdown 'https://drive.google.com/uc?id=ID_removed_to_avoid_overaccesses_get_it_by_yourself'
  
  # test set will be released when competition starts.
  ```
@@ -31,7 +31,7 @@ This repository contains information and tools for the [MOSE](https://henghuidin
 Please also check the SHA256 sum of the files to ensure the data intergrity:
 
 ```
-8bcb6081699ee273b7983dbe8204daf6045077fe0f356d49f6f365c2b3328bdb train.tar.gz
+3f805e66ecb576fdd37a1ab2b06b08a428edd71994920443f70d09537918270b train.tar.gz
 884baecf7d7e85cd35486e45d6c474dc34352a227ac75c49f6d5e4afb61b331c valid.tar.gz
 ```
 

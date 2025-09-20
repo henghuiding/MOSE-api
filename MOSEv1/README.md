@@ -1,39 +1,47 @@
-# MOSE: Complex Video Object Segmentation Dataset
+# MOSE: A New Dataset for Video Object Segmentation in Complex Scenes
 
+**[🏠[Homepage]](https://henghuiding.github.io/MOSE/)** &emsp; **[📄[Arxiv]](https://arxiv.org/abs/2302.01872)**
 
-## Quick Links
+This repository contains information and tools for the [MOSE](https://henghuiding.github.io/MOSE/) dataset.
 
-**🔥 MOSEv2: A More Challenging Dataset for Video Object Segmentation in Complex Scenes** 
-- [⬇️ Download Dataset](#mosev2-dataset)
-- [🏠 Homepage](https://mose.video)
-- [📄 MOSEv2 Paper](https://arxiv.org/abs/2508.05630)
-- [🏆 Evaluation Server](https://www.codabench.org/competitions/10062/)
-- [🤖 Baseline Model](MOSEv2)
-
-MOSEv1: A New Dataset for Video Object Segmentation in Complex Scenes
-- [⬇️ Download Dataset](#mosev1-dataset)
-- [🏠 Homepage](https://mose.video/MOSEv1/)
-- [📄 MOSEv1 Paper](https://arxiv.org/abs/2302.01872)
-- [🏆 Evaluation Server](https://codalab.lisn.upsaclay.fr/competitions/10703)
-
-## News
-
-- [2023/02/09] MOSEv1 dataset has been released!
-- [2025/08/07] MOSEv2 dataset has been released! 🔥🎉🚀✨🎊🌟💫🎈
 
 ## Download
 
+***[🔥02.09.2023: Dataset has been released!]***
 
-### MOSEv2 Dataset
-- 🤗 [Hugging Face](https://huggingface.co/datasets/FudanCVL/MOSEv2)
-- ☁️ [Baidu Pan](https://pan.baidu.com/s/1QWzovOubI0Uvr2gEQChy7Q?pwd=p2m6) (pwd: p2m6)
-- ☁️ [Google Drive](https://drive.google.com/drive/folders/1tb6duuZPrjfuHVvJLcWXItsqde3fup4n?usp=drive_link)
-- ☁️ [OneDrive](https://1drv.ms/f/c/c2b61e01a0e33ea5/EvcaVXmxT0FCvkZOOa2fXvEBCwEhhwlNJt5jDdM2LMV59w?e=xSLFTf)
+⬇️ Get the dataset from: 
 
-### MOSEv1 Dataset
  - ☁️ [***OneDrive*** ](https://entuedu-my.sharepoint.com/:f:/g/personal/liuc0058_e_ntu_edu_sg/EjXSfDF7QEZApAVpFJ5rfdABkHCf0k2Va6VDfUy7rpabNw?e=9BVkrz) ***(Recommended)***
  - ☁️ [Google Drive](https://drive.google.com/drive/folders/1vChKHzbboP1k6wd6t95guxxURW3nIXBe?usp=sharing)
- - ☁️ [Baidu Pan](https://pan.baidu.com/s/116p3tQsUqObem8G8FOJ7cA) (pwd: MOSE)
+ - ☁️ [Baidu Pan](https://pan.baidu.com/s/116p3tQsUqObem8G8FOJ7cA) (Access Code: MOSE) 
+
+
+📦 Or use [gdown](https://github.com/wkentaro/gdown):
+
+ ```bash
+ # train.tar.gz
+ gdown 'https://drive.google.com/uc?id=ID_removed_to_avoid_overaccesses_get_it_by_yourself'
+ 
+ # valid.tar.gz
+ gdown 'https://drive.google.com/uc?id=ID_removed_to_avoid_overaccesses_get_it_by_yourself'
+ 
+ # test set will be released when competition starts.
+ ```
+
+Please also check the SHA256 sum of the files to ensure the data intergrity:
+
+```
+3f805e66ecb576fdd37a1ab2b06b08a428edd71994920443f70d09537918270b train.tar.gz
+884baecf7d7e85cd35486e45d6c474dc34352a227ac75c49f6d5e4afb61b331c valid.tar.gz
+```
+
+
+## Evaluation
+
+***[🔥02.16.2023: Our [CodaLab competition](https://codalab.lisn.upsaclay.fr/competitions/10703) is on live now!]***
+
+Please submit your results on 
+ - 💯 [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/10703).
 
 
 ## File Structure
@@ -80,13 +88,6 @@ Please note that while annotations for all frames in the training set are provid
 Please consider to cite MOSE if it helps your research.
 
 ```latex
-@article{MOSEv2,
-    title={{MOSEv2}: A More Challenging Dataset for Video Object Segmentation in Complex Scenes},
-    author={Ding, Henghui and Ying, Kaining and Liu, Chang and He, Shuting and Jiang, Xudong and Jiang, Yu-Gang and Torr, Philip HS and Bai, Song},
-    journal={arXiv preprint arXiv:2508.05630},
-    year={2025}
-}
-
 @inproceedings{MOSE,
   title={{MOSE}: A New Dataset for Video Object Segmentation in Complex Scenes},
   author={Ding, Henghui and Liu, Chang and He, Shuting and Jiang, Xudong and Torr, Philip HS and Bai, Song},

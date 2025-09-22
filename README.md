@@ -4,7 +4,25 @@
 
 **🔥 MOSEv2: A More Challenging Dataset for Video Object Segmentation in Complex Scenes** 
 
-> If you want to test your VOS model's performance in real-world complex scenarios, MOSEv2 is the right choice.
+
+
+> If you want to test your VOS model's performance in real-world complex scenarios, MOSEv2 is the right choice. Here are some cases from MOSEv2.
+<div align="center">
+  <img src="assets/mosev2/1.gif" width="18%" height="70px"/>
+  <img src="assets/mosev2/2.gif" width="18%" height="70px" />
+  <img src="assets/mosev2/3.gif" width="18%" height="70px" />
+  <img src="assets/mosev2/4.gif" width="18%" height="70px" />
+  <img src="assets/mosev2/5.gif" width="18%" height="70px" />
+</div>
+
+<div align="center">
+  <img src="assets/mosev2/6.gif" width="18%" height="70px" />
+  <img src="assets/mosev2/7.gif" width="18%" height="70px" />
+  <img src="assets/mosev2/8.gif" width="18%" height="70px" />
+  <img src="assets/mosev2/9.gif" width="18%" height="70px" />
+  <img src="assets/mosev2/10.gif" width="18%" height="70px" />
+</div>
+
 - [⬇️ Download Dataset](#mosev2-dataset)
 - [🏠 Homepage](https://mose.video)
 - [📄 MOSEv2 Paper (arXiv)](https://arxiv.org/abs/2508.05630)

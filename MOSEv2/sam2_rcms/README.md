@@ -33,7 +33,7 @@ python training/train.py \
 ## Evaluation
 We provide the pretrained weigths bellow:
 
-| MODEL | $\mathcal{J}\&\dot{\mathcal{F}}$ | $\mathcal{J}$ | $\dot{\mathcal{F}}$ | $\mathcal{J}\&\dot{\mathcal{F}}_d$ | $\mathcal{J}\&\dot{\mathcal{F}}_r$ | $\mathcal{F}$ | $\mathcal{J}\&\mathcal{F}$ | Weights | Submission |
+| MODEL | $\mathcal{J} \& \dot{\mathcal{F}}$ | $\mathcal{J}$ | $\dot{\mathcal{F}}$ | $\mathcal{J}\&\dot{\mathcal{F}}_d$ | $\mathcal{J}\&\dot{\mathcal{F}}_r$ | $\mathcal{F}$ | $\mathcal{J}\&\mathcal{F}$ | Weights | Submission |
 |-------|----|----|----|----|----|----|----|---------| ---------- |
 | SAM2.1_B+_MOSEv2_MSS_LVT16 | 51.5 | 49.5 | 53.6 | 56.6 | 36.5 | 56.3 | 52.9 | [link](https://huggingface.co/FudanCVL/MOSEv2_baseline/blob/main/sam2.1_hiera_b%2B_MOSEv2_mss_lvt16.pt) | [link](https://huggingface.co/FudanCVL/MOSEv2_baseline/blob/main/sam2_b%2B_MOSEv2_rcms_mqf_mss_lvt_submission.zip) |
 | SAM2.1_L_MOSEv2_MSS_LVT16 | 54.4 | 52.4 | 56.3 | 66.8 | 33.2 | 58.9 | 55.6 | [link](https://huggingface.co/FudanCVL/MOSEv2_baseline/blob/main/sam2.1_hiera_l_MOSEv2_mss_lvt16.pt) | [link](https://huggingface.co/FudanCVL/MOSEv2_baseline/blob/main/sam2_l_MOSEv2_rcms_mqf_mss_lvt_submission.zip) |

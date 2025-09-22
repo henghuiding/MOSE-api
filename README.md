@@ -4,25 +4,26 @@
 ## Quick Links
 
 **🔥 MOSEv2: A More Challenging Dataset for Video Object Segmentation in Complex Scenes** 
+
+> If you want to test your VOS model's performance in real-world complex scenarios, MOSEv2 is the right choice.
 - [⬇️ Download Dataset](#mosev2-dataset)
 - [🏠 Homepage](https://mose.video)
-- [📄 MOSEv2 Paper](https://arxiv.org/abs/2508.05630)
+- [📄 MOSEv2 Paper (arXiv)](https://arxiv.org/abs/2508.05630)
 - [🏆 Evaluation Server](https://www.codabench.org/competitions/10062/)
 - [🤖 Baseline Model](MOSEv2)
 
 MOSEv1: A New Dataset for Video Object Segmentation in Complex Scenes
 - [⬇️ Download Dataset](#mosev1-dataset)
 - [🏠 Homepage](https://mose.video/MOSEv1/)
-- [📄 MOSEv1 Paper](https://arxiv.org/abs/2302.01872)
+- [📄 MOSEv1 Paper (ICCV 2023)](https://arxiv.org/abs/2302.01872)
 - [🏆 Evaluation Server](https://codalab.lisn.upsaclay.fr/competitions/10703)
 
 ## News
 
+- [2025/08/07] **MOSEv2** dataset has been released! 🔥🎉🚀✨🎊🌟💫🎈
 - [2023/02/09] MOSEv1 dataset has been released!
-- [2025/08/07] MOSEv2 dataset has been released! 🔥🎉🚀✨🎊🌟💫🎈
 
 ## Download
-
 
 ### MOSEv2 Dataset
 - 🤗 [Hugging Face](https://huggingface.co/datasets/FudanCVL/MOSEv2)
@@ -31,7 +32,8 @@ MOSEv1: A New Dataset for Video Object Segmentation in Complex Scenes
 - ☁️ [OneDrive](https://1drv.ms/f/c/c2b61e01a0e33ea5/EvcaVXmxT0FCvkZOOa2fXvEBCwEhhwlNJt5jDdM2LMV59w?e=xSLFTf)
 
 ### MOSEv1 Dataset
- - ☁️ [***OneDrive*** ](https://entuedu-my.sharepoint.com/:f:/g/personal/liuc0058_e_ntu_edu_sg/EjXSfDF7QEZApAVpFJ5rfdABkHCf0k2Va6VDfUy7rpabNw?e=9BVkrz) ***(Recommended)***
+ - 🤗 [Hugging Face](https://huggingface.co/datasets/FudanCVL/MOSE)
+ - ☁️ [OneDrive](https://entuedu-my.sharepoint.com/:f:/g/personal/liuc0058_e_ntu_edu_sg/EjXSfDF7QEZApAVpFJ5rfdABkHCf0k2Va6VDfUy7rpabNw?e=9BVkrz)
  - ☁️ [Google Drive](https://drive.google.com/drive/folders/1vChKHzbboP1k6wd6t95guxxURW3nIXBe?usp=sharing)
  - ☁️ [Baidu Pan](https://pan.baidu.com/s/116p3tQsUqObem8G8FOJ7cA) (pwd: MOSE)
 
@@ -74,7 +76,6 @@ Please note that while annotations for all frames in the training set are provid
   └── <video_name_...>
 
 ```
-
 
 ## BibTeX
 Please consider to cite MOSE if it helps your research.

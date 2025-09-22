@@ -1,0 +1,8 @@
+J&F_new: 51.55
+J: 49.45
+F_new: 53.65
+disappear_J&F_new: 56.56
+reappear_J&F_new: 36.5
+F: 56.26
+J&F: 52.86
+Copy-Paste: 51.5,49.5,53.6,56.6,36.5,56.3,52.9

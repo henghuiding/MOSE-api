@@ -1,6 +1,5 @@
 # MOSE: Complex Video Object Segmentation Dataset
 
-
 ## Quick Links
 
 **🔥 MOSEv2: A More Challenging Dataset for Video Object Segmentation in Complex Scenes** 
@@ -11,6 +10,7 @@
 - [📄 MOSEv2 Paper (arXiv)](https://arxiv.org/abs/2508.05630)
 - [🏆 Evaluation Server](https://www.codabench.org/competitions/10062/)
 - [🤖 Baseline Model](MOSEv2)
+- [⬇️ Download Baseline Model](https://huggingface.co/FudanCVL/MOSEv2_baseline)
 
 MOSEv1: A New Dataset for Video Object Segmentation in Complex Scenes
 - [⬇️ Download Dataset](#mosev1-dataset)

@@ -42,12 +42,11 @@ Use the following code for inference:
 ```
 python tools/vos_inference_ddp.py \
     --sam2_cfg configs/sam2.1/sam2.1_hiera_b+_rcms_mqf_mss_lvt.yaml \
-    --sam2_checkpoint /home/knying/yingkaining/project/github_released/MOSE-api/checkpoints/sam2.1_hiera_b+_MOSEv2_mss_lvt16.pt \
+    --sam2_checkpoint /path/to/weights \
     --output_mask_dir example_output \
     --num_gpus 8 \
-    --base_video_dir /home/knying/yingkaining/project/mose_annotation/prepare_mosev2_release/MOSEv2_release_final/valid/JPEGImages \
-    --input_mask_dir /home/knying/yingkaining/project/mose_annotation/prepare_mosev2_release/MOSEv2_release_final/valid/Annotations \
-    --video_list_file /home/knying/yingkaining/project/mose_annotation/prepare_mosev2_release/MOSEv2_release_final/valid/annotations_list.txt
+    --base_video_dir /path/to/image \
+    --input_mask_dir /path/to/annotation
 ```
 
 After obtaining the final output, please package it and upload it to the official [codabench server](https://www.codabench.org/competitions/10062/) for evaluation. The packaging process is as follows, note that the zip command must be executed in the root directory of the output path:

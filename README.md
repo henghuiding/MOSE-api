@@ -27,7 +27,7 @@
 - [🏠 Homepage](https://mose.video)
 - [📄 MOSEv2 Paper (arXiv)](https://arxiv.org/abs/2508.05630)
 - [🏆 Evaluation Server](https://www.codabench.org/competitions/10062/)
-- [🤖 Baseline Model: RCMS](MOSEv2)
+- [🤖 Baseline Model: SAM2RCMS](MOSEv2)
 - [⬇️ Download Baseline Model](https://huggingface.co/FudanCVL/MOSEv2_baseline)
 
 MOSEv1: A New Dataset for Video Object Segmentation in Complex Scenes

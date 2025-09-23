@@ -537,7 +537,7 @@ def main():
     parser.add_argument(
         "--low_quality_threshold",
         type=float,
-        default=0.0,
+        default=0.6,
         help="threshold for the quality of the previous frames to promote to conditioning memory when disappearance is detected",
     )
     parser.add_argument(

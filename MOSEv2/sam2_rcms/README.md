@@ -46,7 +46,9 @@ python tools/vos_inference_ddp.py \
     --output_mask_dir example_output \
     --num_gpus 8 \
     --base_video_dir /path/to/image \
-    --input_mask_dir /path/to/annotation
+    --input_mask_dir /path/to/annotation \
+    --num_prev_frames_to_promote 4 \
+    --low_quality_threshold 0.6
 ```
 
 After obtaining the final output, please package it and upload it to the official [codabench server](https://www.codabench.org/competitions/10062/) for evaluation. The packaging process is as follows, note that the zip command must be executed in the root directory of the output path:

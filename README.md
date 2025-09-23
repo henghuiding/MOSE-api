@@ -8,26 +8,26 @@
 
 > If you want to test your VOS model's performance in real-world complex scenarios, MOSEv2 is the right choice. Here are some cases from MOSEv2.
 <div align="center">
-  <img src="assets/mosev2/1.webp" width="120px" height="70px"/>
-  <img src="assets/mosev2/2.webp" width="120px" height="70px" />
-  <img src="assets/mosev2/3.webp" width="120px" height="70px" />
-  <img src="assets/mosev2/4.webp" width="120px" height="70px" />
-  <img src="assets/mosev2/5.webp" width="120px" height="70px" />
+  <img src="assets/mosev2/1.webp" width="160px" height="105px"/>
+  <img src="assets/mosev2/2.webp" width="160px" height="105px" />
+  <img src="assets/mosev2/3.webp" width="160px" height="105px" />
+  <img src="assets/mosev2/4.webp" width="160px" height="105px" />
+  <img src="assets/mosev2/5.webp" width="160px" height="105px" />
 </div>
 
 <div align="center">
-  <img src="assets/mosev2/6.webp" width="120px" height="70px" />
-  <img src="assets/mosev2/7.webp" width="120px" height="70px" />
-  <img src="assets/mosev2/8.webp" width="120px" height="70px" />
-  <img src="assets/mosev2/9.webp" width="120px" height="70px" />
-  <img src="assets/mosev2/10.webp" width="120px" height="70px" />
+  <img src="assets/mosev2/6.webp" width="160px" height="105px" />
+  <img src="assets/mosev2/7.webp" width="160px" height="105px" />
+  <img src="assets/mosev2/8.webp" width="160px" height="105px" />
+  <img src="assets/mosev2/9.webp" width="160px" height="105px" />
+  <img src="assets/mosev2/10.webp" width="160px" height="105px" />
 </div>
 
 - [⬇️ Download Dataset](#mosev2-dataset)
 - [🏠 Homepage](https://mose.video)
 - [📄 MOSEv2 Paper (arXiv)](https://arxiv.org/abs/2508.05630)
 - [🏆 Evaluation Server](https://www.codabench.org/competitions/10062/)
-- [🤖 Baseline Model](MOSEv2)
+- [🤖 Baseline Model: SAM2RCMS](MOSEv2)
 - [⬇️ Download Baseline Model](https://huggingface.co/FudanCVL/MOSEv2_baseline)
 
 MOSEv1: A New Dataset for Video Object Segmentation in Complex Scenes
